@@ -24,7 +24,7 @@ namespace Herencia
             this.nBigotes = b;
         }
 
-        //Metodos
+        //Metodos 
         public void mostrarGato()
         {
             string nom = "";
