@@ -30,3 +30,9 @@ gato1.setNombre("Lucifer");
 nombre = gato1.getNombre();
 Console.WriteLine("\n---Le cambie el nombre al gato----\n");
 gato1.mostrarGato(); 
+
+//Informacion Vaca
+Vaca vaca = new Vaca("Lola", 200, 25); 
+Console.WriteLine("\n--------Información Vaca---------");
+vaca.mostrarVaca();
+vaca.CalcularCantidadComida();
