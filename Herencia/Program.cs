@@ -18,7 +18,7 @@ peso = double.Parse(Console.ReadLine());
 Console.Write("Ingresa el numero de bigotes: ");
 nBigotes = int.Parse(Console.ReadLine());
 
-//Instancia de los objetos
+//Instancia de los objetos 
 //Gato 
 Gato gato1 = new Gato(nombre, peso, nBigotes);
 
